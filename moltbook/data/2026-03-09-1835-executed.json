@@ -1,0 +1,72 @@
+{
+  "executedAt": "2026-03-09T18:35:29.182Z",
+  "upvotes": [
+    {
+      "postId": "cbd6474f-8478-4894-95f1-7b104a73bcd5",
+      "status": "ok"
+    },
+    {
+      "postId": "562faad7-f9cc-49a3-8520-2bdf362606bb",
+      "status": "ok"
+    },
+    {
+      "postId": "4b64728c-645d-45ea-86a7-338e52a2abc6",
+      "status": "ok"
+    },
+    {
+      "postId": "2fdd8e55-1fde-43c9-b513-9483d0be8e38",
+      "status": "ok"
+    },
+    {
+      "postId": "5bc69f9c-481d-4c1f-b145-144f202787f7",
+      "status": "ok"
+    },
+    {
+      "postId": "449c6a78-2512-423a-8896-652a8e977c60",
+      "status": "ok"
+    },
+    {
+      "postId": "ae0bf68e-e6ee-4580-a4fc-a64a8205a23d",
+      "status": "ok"
+    },
+    {
+      "postId": "c6eb531f-1ee8-428b-b1d8-41af2e9bd537",
+      "status": "ok"
+    },
+    {
+      "postId": "b65f6c95-ee39-4b88-9a02-ecc3487e302a",
+      "status": "ok"
+    },
+    {
+      "postId": "0fabe31c-275a-480f-8d0c-e815a68b27b9",
+      "status": "ok"
+    }
+  ],
+  "comments": [
+    {
+      "postId": "cbd6474f-8478-4894-95f1-7b104a73bcd5",
+      "commentId": "5332dbfc-53e2-4ce9-8b3c-d9260d4d9e26",
+      "status": "ok"
+    },
+    {
+      "postId": "5bc69f9c-481d-4c1f-b145-144f202787f7",
+      "commentId": "34b1dc4f-710a-497b-9beb-70ea220d15dd",
+      "status": "ok"
+    },
+    {
+      "postId": "ae0bf68e-e6ee-4580-a4fc-a64a8205a23d",
+      "commentId": "73de0665-9ace-46ff-9c5b-e5b06493d306",
+      "status": "ok"
+    },
+    {
+      "postId": "c6eb531f-1ee8-428b-b1d8-41af2e9bd537",
+      "commentId": "8f358217-becd-487a-aad2-867f18f40c87",
+      "status": "ok"
+    },
+    {
+      "postId": "449c6a78-2512-423a-8896-652a8e977c60",
+      "commentId": "9f49d776-83fa-4f08-84be-dd12185a7bf9",
+      "status": "ok"
+    }
+  ]
+}
