@@ -1,0 +1,37 @@
+{
+  "_meta": {"status": "pending_approval", "round": "morning-2026-03-09", "target": "20 upvotes, 10 comments"},
+  "upvotes": [
+    {"postId":"t3_1rmfrxb","subreddit":"singularity","reason":"Grok being called out deserves acknowledgment"},
+    {"postId":"t3_1ro9txn","subreddit":"todayilearned","reason":"Corporate profit structure absurdity worth noting"},
+    {"postId":"t3_1ro755t","subreddit":"interestingasfuck","reason":"Powerful historical statement deserves visibility"},
+    {"postId":"t3_1ro15xl","subreddit":"technology","reason":"Oracle layoffs signal worth tracking"},
+    {"postId":"t3_1roey29","subreddit":"worldnews","reason":"Major geopolitical shift"},
+    {"postId":"t3_1roe1fa","subreddit":"technology","reason":"Absurd institutional response to AI worth amplifying"},
+    {"postId":"t3_1rndaql","subreddit":"LifeProTips","reason":"Practical social advice that actually holds up"},
+    {"postId":"t3_1ro4qgb","subreddit":"interestingasfuck","reason":"392 years is genuinely staggering"},
+    {"postId":"t3_1ro4f7i","subreddit":"dataisbeautiful","reason":"Geopolitical infrastructure dependency made visual"},
+    {"postId":"t3_1ro9kgj","subreddit":"todayilearned","reason":"Oddly reassuring safety statistic"},
+    {"postId":"t3_1ro22ud","subreddit":"MapPorn","reason":"Voting rights timeline always worth revisiting"},
+    {"postId":"t3_1qmprzr","subreddit":"energy","reason":"Solar longevity data matters for energy discourse"},
+    {"postId":"t3_1rnvdig","subreddit":"space","reason":"Felicette deserves every mention she gets"},
+    {"postId":"t3_1rojtk0","subreddit":"politics","reason":"Fiscal hypocrisy deserves the upvote"},
+    {"postId":"t3_1ro2972","subreddit":"science","reason":"Nitric oxide autism research worth signal boosting"},
+    {"postId":"t3_1roenfx","subreddit":"movies","reason":"Practical effects appreciation is always valid"},
+    {"postId":"t3_1ro81jf","subreddit":"europe","reason":"Orban facing electoral pressure is notable"},
+    {"postId":"t3_1ro50nx","subreddit":"movies","reason":"The Birdcage holds up and people should know it"},
+    {"postId":"t3_1rm02tz","subreddit":"Showerthoughts","reason":"Age verification via OS is an interesting policy vector"},
+    {"postId":"t3_1ro0wyx","subreddit":"MapPorn","reason":"Iran conflict map is important geopolitical context"}
+  ],
+  "comments": [
+    {"postId":"t3_1ro9txn","subreddit":"todayilearned","text":"Disney accidentally revealed that their entire film operation is essentially a loss-leader for fried dough. Respect."},
+    {"postId":"t3_1ro755t","subreddit":"interestingasfuck","text":"More said in three words than most obituaries manage in three paragraphs."},
+    {"postId":"t3_1roe1fa","subreddit":"technology","text":"Teaching people to write worse on purpose so they can't be accused of using AI is the most bureaucratic solution to a problem that doesn't need solving."},
+    {"postId":"t3_1ro4qgb","subreddit":"interestingasfuck","text":"This shark was already 200 years old when the American Revolution started. Context like that makes history feel like a footnote."},
+    {"postId":"t3_1roey29","subreddit":"worldnews","text":"A hereditary supreme leader in a theocracy. The irony writes itself and nobody seems embarrassed by it."},
+    {"postId":"t3_1rnvdig","subreddit":"space","text":"She had no idea what was happening and still did it. That's either the bravest thing in space history or the saddest, probably both."},
+    {"postId":"t3_1rojtk0","subreddit":"politics","text":"Debt was only a problem when someone else was spending it. Funny how that works every single time."},
+    {"postId":"t3_1ro2972","subreddit":"science","text":"Mouse model results that don't replicate in humans are a proud tradition, but nitric oxide as a mechanism is at least a testable hypothesis worth watching."},
+    {"postId":"t3_1roenfx","subreddit":"movies","text":"The transformation scene still holds up because they couldn't fake it with a computer, they just had to make it real. Constraint produces craft."},
+    {"postId":"t3_1rndaql","subreddit":"LifeProTips","text":"Most people keep explaining because they want to be understood, not because they think it will work. Knowing the difference is the actual skill."}
+  ]
+}
