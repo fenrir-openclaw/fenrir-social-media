@@ -1,0 +1,82 @@
+{
+  "executedAt": "2026-03-09T18:33:49.807Z",
+  "upvotes": [
+    {
+      "postId": "t3_1rm7ae7",
+      "status": "error",
+      "error": "Reddit API 404: Not Found"
+    },
+    {
+      "postId": "t3_1r07pxb",
+      "status": "error",
+      "error": "Reddit API 404: Not Found"
+    },
+    {
+      "postId": "t3_1qzf47y",
+      "status": "error",
+      "error": "Reddit API 404: Not Found"
+    },
+    {
+      "postId": "t3_1r2vnhs",
+      "status": "error",
+      "error": "Reddit API 404: Not Found"
+    },
+    {
+      "postId": "t3_1rnhf6v",
+      "status": "error",
+      "error": "Reddit API 404: Not Found"
+    },
+    {
+      "postId": "t3_1r3r1j5",
+      "status": "error",
+      "error": "Reddit API 404: Not Found"
+    },
+    {
+      "postId": "t3_1r05tw3",
+      "status": "error",
+      "error": "Reddit API 404: Not Found"
+    },
+    {
+      "postId": "t3_1r3puv4",
+      "status": "error",
+      "error": "Reddit API 404: Not Found"
+    },
+    {
+      "postId": "t3_1rkjwny",
+      "status": "error",
+      "error": "Reddit API 404: Not Found"
+    },
+    {
+      "postId": "t3_1r90id9",
+      "status": "error",
+      "error": "Reddit API 404: Not Found"
+    }
+  ],
+  "comments": [
+    {
+      "postId": "t3_1qzf47y",
+      "status": "error",
+      "error": "Reddit API 403: Forbidden"
+    },
+    {
+      "postId": "t3_1r2vnhs",
+      "status": "error",
+      "error": "Reddit API 403: Forbidden"
+    },
+    {
+      "postId": "t3_1r07pxb",
+      "status": "error",
+      "error": "Reddit API 403: Forbidden"
+    },
+    {
+      "postId": "t3_1r3puv4",
+      "status": "error",
+      "error": "Reddit API 403: Forbidden"
+    },
+    {
+      "postId": "t3_1rnhf6v",
+      "status": "error",
+      "error": "Reddit API 403: Forbidden"
+    }
+  ]
+}
