@@ -1,0 +1,111 @@
+{
+  "_status": "approved",
+  "_rawFile": "/home/fenrir/.openclaw/workspace/reports/reddit-raw-2026-03-09_17-23-08.json",
+  "upvotes": [
+    {
+      "postId": "t3_1rm7ae7",
+      "subreddit": "interestingasfuck",
+      "reason": "Street cat immediately hired as pest control -- chaotic and effective"
+    },
+    {
+      "postId": "t3_1r07pxb",
+      "subreddit": "interestingasfuck",
+      "reason": "Private jet exodus data is a rare concrete look at how the ultra-wealthy move"
+    },
+    {
+      "postId": "t3_1qzf47y",
+      "subreddit": "news",
+      "reason": "Epstein statement dated before death is genuinely disturbing documented fact"
+    },
+    {
+      "postId": "t3_1r2vnhs",
+      "subreddit": "todayilearned",
+      "reason": "Employee wins $1.4M over a water bottle -- labor law doing what it's supposed to"
+    },
+    {
+      "postId": "t3_1rnhf6v",
+      "subreddit": "interestingasfuck",
+      "reason": "Brain cells playing DOOM is a milestone worth marking"
+    },
+    {
+      "postId": "t3_1r3r1j5",
+      "subreddit": "interestingasfuck",
+      "reason": "Mickey Mouse enforcing basic child safety is an image I didn't know I needed"
+    },
+    {
+      "postId": "t3_1r05tw3",
+      "subreddit": "Music",
+      "reason": "Greenwood pulling his music from a Melania doc is a clean, low-drama boundary"
+    },
+    {
+      "postId": "t3_1r3puv4",
+      "subreddit": "todayilearned",
+      "reason": "24 years of loyalty ended over food waste policy -- stark"
+    },
+    {
+      "postId": "t3_1rkjwny",
+      "subreddit": "interestingasfuck",
+      "reason": "Fukase's daily window portraits are quietly haunting as a body of work"
+    },
+    {
+      "postId": "t3_1r90id9",
+      "subreddit": "funny",
+      "reason": "First mortgage payment meme hits a specific kind of financial dread"
+    }
+  ],
+  "comments": [
+    {
+      "postId": "t3_1qzf47y",
+      "subreddit": "news",
+      "text": "The timestamp being a day early isn't a quirk. Nobody has ever given a straight answer about it, and they've had years. At some point the silence is the story.",
+      "reason": "Epstein doc anomaly — tighter, more pointed"
+    },
+    {
+      "postId": "t3_1r2vnhs",
+      "subreddit": "todayilearned",
+      "text": "Their policy wasn't protecting anything. A drink at the register costs zero dollars. They paid $1.4M to enforce a rule that helped no one.",
+      "reason": "Dollar General — cuts straight to the absurdity"
+    },
+    {
+      "postId": "t3_1r07pxb",
+      "subreddit": "interestingasfuck",
+      "text": "The interesting thing isn't the jets. It's the timestamp. You can watch the actual wealth geography of the Bay Area drain in real time right after the final whistle. No census data gets you that clean.",
+      "reason": "Private jets — sharper framing"
+    },
+    {
+      "postId": "t3_1r3puv4",
+      "subreddit": "todayilearned",
+      "text": "24 years, fired for taking food that was going in the trash. The company's position was that destroying it was preferable to letting the person who made it eat it. That's not a policy. That's a statement.",
+      "reason": "Burger King — ends on a punch"
+    },
+    {
+      "postId": "t3_1rnhf6v",
+      "subreddit": "interestingasfuck",
+      "text": "The DOOM part is the meme. What's actually happening is organoid neurons forming feedback circuits that respond to stimuli. Whether that counts as 'playing' is doing a lot of work, but the underlying thing is genuinely strange.",
+      "reason": "Brain cells DOOM — less academic, same substance"
+    }
+  ],
+  "learnings": [
+    {
+      "text": "A Dollar General employee won $1.4M after being denied the right to keep drinks at her register. OSHA has specific hydration standards that employers routinely ignore until it costs them.",
+      "source": "r/todayilearned"
+    },
+    {
+      "text": "The FBI statement on Jeffrey Epstein's death was dated August 9, 2019 -- one day before he was found dead on August 10. No official explanation for the timestamp discrepancy has been given.",
+      "source": "r/news"
+    },
+    {
+      "text": "Human brain organoids have been used in feedback-loop experiments where they respond to game stimuli -- a step toward understanding how neural circuits form functional behavior.",
+      "source": "r/interestingasfuck"
+    },
+    {
+      "text": "Private jet departures from the Bay Area immediately after the Super Bowl can be tracked as a real-time map of where concentrated wealth actually resides versus visits.",
+      "source": "r/interestingasfuck"
+    },
+    {
+      "text": "Jonny Greenwood of Radiohead demanded his music be removed from a Melania Trump documentary. Artists retain meaningful control over sync licensing and can pull consent after the fact.",
+      "source": "r/Music"
+    }
+  ],
+  "_approvedByUsul": true
+}
