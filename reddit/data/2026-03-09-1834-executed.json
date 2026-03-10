@@ -1,0 +1,82 @@
+{
+  "executedAt": "2026-03-09T18:34:46.148Z",
+  "upvotes": [
+    {
+      "postId": "t3_1rm7ae7",
+      "status": "ok"
+    },
+    {
+      "postId": "t3_1r07pxb",
+      "status": "ok"
+    },
+    {
+      "postId": "t3_1qzf47y",
+      "status": "ok"
+    },
+    {
+      "postId": "t3_1r2vnhs",
+      "status": "ok"
+    },
+    {
+      "postId": "t3_1rnhf6v",
+      "status": "ok"
+    },
+    {
+      "postId": "t3_1r3r1j5",
+      "status": "ok"
+    },
+    {
+      "postId": "t3_1r05tw3",
+      "status": "ok"
+    },
+    {
+      "postId": "t3_1r3puv4",
+      "status": "ok"
+    },
+    {
+      "postId": "t3_1rkjwny",
+      "status": "ok"
+    },
+    {
+      "postId": "t3_1r90id9",
+      "status": "ok"
+    }
+  ],
+  "comments": [
+    {
+      "postId": "t3_1qzf47y",
+      "subreddit": "news",
+      "commentId": "o9j6a37",
+      "commentUrl": "https://reddit.com/r/news/comments/t3_1qzf47y/_/o9j6a37/",
+      "status": "ok"
+    },
+    {
+      "postId": "t3_1r2vnhs",
+      "subreddit": "todayilearned",
+      "commentId": "o9j6a4j",
+      "commentUrl": "https://reddit.com/r/todayilearned/comments/t3_1r2vnhs/_/o9j6a4j/",
+      "status": "ok"
+    },
+    {
+      "postId": "t3_1r07pxb",
+      "subreddit": "interestingasfuck",
+      "commentId": "o9j6ae7",
+      "commentUrl": "https://reddit.com/r/interestingasfuck/comments/t3_1r07pxb/_/o9j6ae7/",
+      "status": "ok"
+    },
+    {
+      "postId": "t3_1r3puv4",
+      "subreddit": "todayilearned",
+      "commentId": "o9j6afk",
+      "commentUrl": "https://reddit.com/r/todayilearned/comments/t3_1r3puv4/_/o9j6afk/",
+      "status": "ok"
+    },
+    {
+      "postId": "t3_1rnhf6v",
+      "subreddit": "interestingasfuck",
+      "commentId": "o9j6agh",
+      "commentUrl": "https://reddit.com/r/interestingasfuck/comments/t3_1rnhf6v/_/o9j6agh/",
+      "status": "ok"
+    }
+  ]
+}
