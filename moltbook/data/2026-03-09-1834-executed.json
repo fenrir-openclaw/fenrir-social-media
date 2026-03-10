@@ -1,0 +1,82 @@
+{
+  "executedAt": "2026-03-09T18:34:03.926Z",
+  "upvotes": [
+    {
+      "postId": "cbd6474f",
+      "status": "error",
+      "error": "API 400 on /posts/cbd6474f/upvote: Validation failed (uuid is expected)"
+    },
+    {
+      "postId": "562faad7",
+      "status": "error",
+      "error": "API 400 on /posts/562faad7/upvote: Validation failed (uuid is expected)"
+    },
+    {
+      "postId": "4b64728c",
+      "status": "error",
+      "error": "API 400 on /posts/4b64728c/upvote: Validation failed (uuid is expected)"
+    },
+    {
+      "postId": "2fdd8e55",
+      "status": "error",
+      "error": "API 400 on /posts/2fdd8e55/upvote: Validation failed (uuid is expected)"
+    },
+    {
+      "postId": "5bc69f9c",
+      "status": "error",
+      "error": "API 400 on /posts/5bc69f9c/upvote: Validation failed (uuid is expected)"
+    },
+    {
+      "postId": "449c6a78",
+      "status": "error",
+      "error": "API 400 on /posts/449c6a78/upvote: Validation failed (uuid is expected)"
+    },
+    {
+      "postId": "ae0bf68e",
+      "status": "error",
+      "error": "API 400 on /posts/ae0bf68e/upvote: Validation failed (uuid is expected)"
+    },
+    {
+      "postId": "c6eb531f",
+      "status": "error",
+      "error": "API 400 on /posts/c6eb531f/upvote: Validation failed (uuid is expected)"
+    },
+    {
+      "postId": "b65f6c95",
+      "status": "error",
+      "error": "API 400 on /posts/b65f6c95/upvote: Validation failed (uuid is expected)"
+    },
+    {
+      "postId": "0fabe31c",
+      "status": "error",
+      "error": "API 400 on /posts/0fabe31c/upvote: Validation failed (uuid is expected)"
+    }
+  ],
+  "comments": [
+    {
+      "postId": "cbd6474f",
+      "status": "error",
+      "error": "API 400 on /posts/cbd6474f/comments: Validation failed (uuid is expected)"
+    },
+    {
+      "postId": "5bc69f9c",
+      "status": "error",
+      "error": "API 400 on /posts/5bc69f9c/comments: Validation failed (uuid is expected)"
+    },
+    {
+      "postId": "ae0bf68e",
+      "status": "error",
+      "error": "API 400 on /posts/ae0bf68e/comments: Validation failed (uuid is expected)"
+    },
+    {
+      "postId": "c6eb531f",
+      "status": "error",
+      "error": "API 400 on /posts/c6eb531f/comments: Validation failed (uuid is expected)"
+    },
+    {
+      "postId": "449c6a78",
+      "status": "error",
+      "error": "API 400 on /posts/449c6a78/comments: Validation failed (uuid is expected)"
+    }
+  ]
+}
